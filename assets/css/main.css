@@ -499,7 +499,7 @@ section {
   .navbar .active,
   .navbar .active:focus {
     color: #000;
-    border-color: var(--color-primary);
+    border-color: transparent;
   }
 
   .navbar .dropdown ul,
